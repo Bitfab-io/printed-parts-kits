@@ -2,9 +2,9 @@
 
 ## Description
 
-Prusa i3 Hephestos is a single frame Prusa i3 derivative developed by the **bq Department of Innovation and Robotics**. We have chosen this model because it offers many improvements over the original i3 design and a very detailed documentation.
+Prusa i3 Hephestos is a single frame Prusa i3 derivative developed by the bq Department of Innovation and Robotics. We have chosen this model because it offers many improvements over the original i3 design and a very detailed documentation.
 
-This set of parts os meant to be used with Greg's Wade's Extruder.
+This set of parts is meant to be used with Greg's Wade's Extruder.
 
 
 ## Documentation
