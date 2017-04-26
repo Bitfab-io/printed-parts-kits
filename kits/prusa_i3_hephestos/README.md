@@ -8,8 +8,9 @@ Bitfab's Hephestos kit has the following characteristics:
 
 * Belt tensioners in X and Y axis, thanks to the Hephestos design improvements over the original Prusa i3.
 * Compatibility with the Wade's Greg's Extruder
-* Removed and replaced the parts that have cable chain holders. No need to use cable chain.
 * LCD holder included, for use with RepRap Discount LCD controller.
+* RAMPS holder with electronics cooling fan included.
+* Removed and replaced the parts that have cable chain holders. No need to use cable chain from the beginning, although you can print the upgrade later.
 * Improved Z axis top brackets, to achieve better threaded rod alignment by [jjimenez](http://www.thingiverse.com/thing:1657683)
 * Improved Z axis endstop holder by [AndersV209](http://www.thingiverse.com/thing:781100)
 * Improved X axis endstop holder [AndersV209](http://www.thingiverse.com/thing:784801)
