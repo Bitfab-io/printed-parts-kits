@@ -2,9 +2,10 @@
 
 ## Description
 
-Greg's Wade's Geared Extruder is the most popular extruder for 3D printers. It has gone through many iterations and versions since its inception from the Wade's Geared extruder.
+Greg's Wade's Geared Extruder is the most popular extruder for 3D printers. It is compatible with many printers and uses a geared design that pushes the filament with greater force. Can be used with both 1.75 and 3mm filament. The hotend mount is compatible with standard J-Head or E3D type hotends.
 
-We produce the "Greg's Wade extruder for Prusa i3" version, by Miguel Sánchez (Misan), which is modified for its use in Prusa i3 printers.
+The extruder has gone through many iterations and versions since its inception from the Wade's Geared extruder. We produce the "Greg's Wade extruder for Prusa i3" version, by Miguel Sánchez (Misan), which is modified for its use in Prusa i3 printers.
+
 
 ## Documentation
 
