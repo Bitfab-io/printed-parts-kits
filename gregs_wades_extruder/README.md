@@ -6,13 +6,19 @@ Greg's Wade's Geared Extruder is the most popular extruder for 3D printers. It i
 
 The extruder has gone through many iterations and versions since its inception from the Wade's Geared extruder. We produce the "Greg's Wade extruder for Prusa i3" version, by Miguel Sánchez (Misan), which is modified for its use in Prusa i3 printers.
 
+# Part list
+
+* 1x gregs_wades_big_gear.stl
+* 1x gregs_wades_body.stl
+* 1x gregs_wades_idler.stl
+* 1x gregs_wades_small_gear.stl
+* 1x gregs_wades_spacer.stl
 
 ## Documentation
 
 * http://www.thingiverse.com/thing:65939
 * http://reprap.org/wiki/Wade%27s_Geared_Extruder
 * http://reprap.org/wiki/Genealogy_/_Archeology_of_the_Greg's_Wade's_Geared_Extruder
-
 
 ## Attribution
 
