@@ -15,21 +15,21 @@ Bitfab's Hephestos kit has the following characteristics:
 
 ## Part list
 
-* 1x x_carriage.stl
-* 1x x_endstop.stl
-* 1x x_idler_end.stl
-* 1x x_idler.stl
-* 1x x_motor_end.stl
-* 1x y_axis_base_endstop.stl
-* 1x y_axis_frame_endstop.stl
-* 1x y_belt_holder.stl
-* 1x y_idler.stl
-* 1x y_motor.stl
-* 1x z_axis_bottom.stl
-* 1x z_axis_top_left.stl
-* 1x z_axis_top_right.stl
-* 1x z_endstop.stl
-* 4x y_corner.stl
+* 1x pi3h_x_carriage.stl
+* 1x pi3h_x_endstop.stl
+* 1x pi3h_x_idler_end.stl
+* 1x pi3h_x_idler.stl
+* 1x pi3h_x_motor_end.stl
+* 1x pi3h_y_axis_base_endstop.stl
+* 1x pi3h_y_axis_frame_endstop.stl
+* 1x pi3h_y_belt_holder.stl
+* 1x pi3h_y_idler.stl
+* 1x pi3h_y_motor.stl
+* 1x pi3h_z_axis_bottom.stl
+* 1x pi3h_z_axis_top_left.stl
+* 1x pi3h_z_axis_top_right.stl
+* 1x pi3h_z_endstop.stl
+* 4x pi3h_y_corner.stl
 
 ## Documentation
 
